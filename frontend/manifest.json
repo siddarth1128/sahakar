@@ -1,0 +1,8 @@
+{
+  "short_name": "FixItNow",
+  "name": "FixItNow - Home Service Professionals",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
